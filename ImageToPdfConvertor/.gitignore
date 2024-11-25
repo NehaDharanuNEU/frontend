@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Frontend files
+*.min.js
+*.map
+.cache/
+
+# Lock files (optional)
+package-lock.json
+yarn.lock
